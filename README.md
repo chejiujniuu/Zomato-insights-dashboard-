@@ -75,3 +75,7 @@ Cuisine Popularity Chart – A bar chart displaying the most popular cuisines ba
 - Operations Team: Monitor delivery efficiency.
 - Marketing Team: Understand customer preferences and trends.
 - Restaurant Owners: Track performance and customer feedback.
+
+## Dashboard
+![Dashbord image](https://github.com/user-attachments/assets/075fde0b-10ed-4044-add6-d9a849cc389a)
+
